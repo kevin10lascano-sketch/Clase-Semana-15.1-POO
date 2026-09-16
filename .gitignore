@@ -1,0 +1,26 @@
+# Archivos generados por Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Configuracion local de editores
+.vscode/
+.idea/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Salidas de empaquetado o instalacion
+build/
+dist/
+*.egg-info/
+
+# Reportes y pruebas generadas localmente
+reporte_ventas*.pdf
+*.log

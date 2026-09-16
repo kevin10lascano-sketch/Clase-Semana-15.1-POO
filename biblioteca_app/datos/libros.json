@@ -1,0 +1,22 @@
+[
+    {
+        "codigo": "L001",
+        "titulo": "Introduccion a Python",
+        "autor": "Ana Torres"
+    },
+    {
+        "codigo": "L002",
+        "titulo": "Programacion Orientada a Objetos",
+        "autor": "Luis Mendoza"
+    },
+    {
+        "codigo": "L003",
+        "titulo": "Fundamentos de Interfaces Graficas",
+        "autor": "Maria Perez"
+    },
+    {
+        "codigo": "L004",
+        "titulo": "Clean Code Javascript",
+        "autor": "Steve Madkat"
+    }
+]
