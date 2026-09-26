@@ -4,5 +4,11 @@
         "usuario_id": "U002",
         "libro_codigo": "L001",
         "fecha": "2026-09-15"
+    },
+    {
+        "identificador": "V002",
+        "usuario_id": "U002",
+        "libro_codigo": "L004",
+        "fecha": "2026-09-25"
     }
 ]

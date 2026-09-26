@@ -483,7 +483,7 @@ class MainView(tk.Frame):
             "Generar reporte PDF",
             self.generar_reporte_ventas,
             "Secundario.TButton",
-            "sales.png",
+            "pdf.png",
         ).pack(fill="x")
 
         listado = self.crear_listado(cuerpo, "Ventas registradas", usar_grid=True)
